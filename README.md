@@ -6,16 +6,16 @@ Hi,
 [ePortfolio in AI&ML](https://eportfolio.greatlearning.in/hemachandran-munuswamy)</br>
 _Advanced Computer Vision:_
  
-> Face detection – Use VGG_FACE_MODEL, build face boundary box, face_recognation lib. 
->  Vehicle detection from video – Bounding boxes to locate vehicles on the road open-cv libraries.
->  Face Masking detection – Mobile-Net, Dice co-efficient Loss, transfer learning, CNN.
->  Plant seeding classification - CNN, NN, Tensor flow.
->  Determining a flower’s species – CNN, NN, GUI tinker.
+> Face detection – Use VGG_FACE_MODEL, build face boundary box, face_recognation lib. </br>
+>  Vehicle detection from video – Bounding boxes to locate vehicles on the road open-cv libraries. </br>
+>  Face Masking detection – Mobile-Net, Dice co-efficient Loss, transfer learning, CNN. </br>
+>  Plant seeding classification - CNN, NN, Tensor flow. </br>
+>  Determining a flower’s species – CNN, NN, GUI tinker. </br>
 
 _Natural Language Processing:_
 
-> Semi-rule-based chatbot automation - Word2vec, Text pre-process, Word embedding.
-> Sentiment analysis - Movie review - LSTM, Bi-directional LSTM, Classification, Glove embedding.
+> Semi-rule-based chatbot automation - Word2vec, Text pre-process, Word embedding. </br>
+> Sentiment analysis - Movie review - LSTM, Bi-directional LSTM, Classification, Glove embedding. </br>
 
 Recommendation Systems - Collaborative Filtering, Popularity based, Recommender Systems.
 
